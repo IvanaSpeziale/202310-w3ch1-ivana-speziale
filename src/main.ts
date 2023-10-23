@@ -1,4 +1,4 @@
-import './css/style.css';
+import '../css/style.css';
 import { characters } from './characters';
 
 const appElement = document.querySelector<HTMLDivElement>('#app');
